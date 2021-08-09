@@ -17,4 +17,5 @@
 
   
   
+  ![Snake animation](https://github.com/GitHubdoGabriel/GitHubdoGabriel/blob/output/github-contribution-grid-snake.svg)
   
