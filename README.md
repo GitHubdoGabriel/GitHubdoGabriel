@@ -1,3 +1,5 @@
+[LinkedIn](https://linkedin.com/in/gabriel-alves16111991)
+
 <div>
   <a href="https://github.com/GitHubdoGabriel">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GitHubdoGabriel&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
