@@ -1,5 +1,5 @@
 <a href = "mailto:gabriel.alves.gas@hotmail.com"><img src="https://www.logolynx.com/images/logolynx/11/116378e6584c2420405286fd57309032.png" target="_blank" height=25px></a>
-<br>-</br>
+<h1>-</h1>
 <a href="https://www.linkedin.com/in/gabriel-alves16111991" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ##
